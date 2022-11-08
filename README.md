@@ -1,4 +1,3 @@
-# calculator-vlad-khvesiukovich
 ![image](https://user-images.githubusercontent.com/67324769/197273732-5a747ba1-3140-4db7-9290-8c05ee005451.png)
 
 Данный калькулятор был разработан на платформе Windows Forms в среде разработки Microsoft Visual Studio.
